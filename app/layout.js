@@ -1,4 +1,5 @@
 import './globals.css';
+import { SpeedInsights } from '@vercel/speed-insights/next';
 
 export const metadata = {
   metadataBase: new URL('https://www.floridareagency.com'),
@@ -43,6 +44,7 @@ export default function RootLayout({ children }) {
       </head>
       <body className="font-sans bg-ivory-100 text-charcoal-900 selection:bg-coastal-800 selection:text-ivory-100 min-h-screen flex flex-col">
         {children}
+        <SpeedInsights />
       </body>
     </html>
   );
