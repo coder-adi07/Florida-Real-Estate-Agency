@@ -1,0 +1,30 @@
+# Next.js
+/.next/
+/out/
+
+# Node
+/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env*.local
+
+# Verbatim scrapers / temp files
+*.html
+scrape_*.js
+fetch_*.js
+inspect_*.py
+parse_*.js
+analyze.js
+download_*.js
+check_*.js
+dump_*.js
+find_*.js
+test_*.html
+
+# OS files
+.DS_Store
+Thumbs.db
+

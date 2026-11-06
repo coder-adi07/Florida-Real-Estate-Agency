@@ -1,0 +1,461 @@
+[
+  {
+    "filename": "assets/logo/frea-primary-logo.png",
+    "category": "logo",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_0de29c564db6568c6b7880893e53ae0e-1-130x91.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 14237,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/banners/banner-1-agents-vs-paras.jpg",
+    "category": "banners",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/09/agents-vs-paras.jpg",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 602452,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/banners/banner-2-upload_98b5b7aa8fa38a0f9015745dc277900a.png",
+    "category": "banners",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/09/upload_98b5b7aa8fa38a0f9015745dc277900a.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 138941,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/banners/banner-3-upload_80e51dd83a0cb9e191225ab7359b491e.png",
+    "category": "banners",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/09/upload_80e51dd83a0cb9e191225ab7359b491e.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 114901,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/thumb-up.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/09/thumb-up.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 11558,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/earnings.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/09/earnings.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 23873,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/customer-service.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/09/customer-service.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 23068,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/electronic.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/09/electronic.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 23159,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/team/team-8-upload_2d8c51607b0f7975ffa933ef495742b5.png",
+    "category": "team",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/09/upload_2d8c51607b0f7975ffa933ef495742b5.png",
+    "alt": "Sumeet Anand",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 9275,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/logo/frea-primary-logo.png",
+    "category": "logo",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_0de29c564db6568c6b7880893e53ae0e-1.png",
+    "alt": "upload_0de29c564db6568c6b7880893e53ae0e (1)",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 86074,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_5116f3988ce48d9bd01b635012e9cabe-1.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_5116f3988ce48d9bd01b635012e9cabe-1.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 2124,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_1bddf6610b60252aa8cbf9f6a616b2ae-1.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_1bddf6610b60252aa8cbf9f6a616b2ae-1.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 2586,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_f3a4ed2ba8ab5cd9eb4a933dabc7d260-1.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_f3a4ed2ba8ab5cd9eb4a933dabc7d260-1.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 2357,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/logo/BMLS_logo-1.png",
+    "category": "logo",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/BMLS_logo-1.png",
+    "alt": "",
+    "sourceFile": "homepage.html",
+    "sizeBytes": 15639,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/properties/prop-14-house.png",
+    "category": "properties",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/house.png",
+    "alt": "",
+    "sourceFile": "about.html",
+    "sizeBytes": 12872,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/condominium.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/condominium.png",
+    "alt": "",
+    "sourceFile": "about.html",
+    "sizeBytes": 4676,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/family.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/family.png",
+    "alt": "",
+    "sourceFile": "about.html",
+    "sizeBytes": 18290,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/sale.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/sale.png",
+    "alt": "",
+    "sourceFile": "about.html",
+    "sizeBytes": 3759,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_7f6b8d09a40a51febf403947bbbbfb20.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_7f6b8d09a40a51febf403947bbbbfb20.png",
+    "alt": "",
+    "sourceFile": "about.html",
+    "sizeBytes": 194741,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_16af0b0845e37c7474b37ce97c12b43b.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_16af0b0845e37c7474b37ce97c12b43b.png",
+    "alt": "",
+    "sourceFile": "about.html",
+    "sizeBytes": 201017,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_1366264dd0d243abf18009da24cef2b8.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_1366264dd0d243abf18009da24cef2b8.png",
+    "alt": "",
+    "sourceFile": "about.html",
+    "sizeBytes": 189966,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_db243d3ed0c41eb34015424e65a1f0a0.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_db243d3ed0c41eb34015424e65a1f0a0.png",
+    "alt": "",
+    "sourceFile": "about.html",
+    "sizeBytes": 174536,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/team/team-22-upload_4cc744fcc2f4e85edaae055a06b35e86.png",
+    "category": "team",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_4cc744fcc2f4e85edaae055a06b35e86.png",
+    "alt": "",
+    "sourceFile": "executive-team.html",
+    "sizeBytes": 480292,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/team/team-23-upload_93e1799a3d449b2e0d0e781ba9108b54.png",
+    "category": "team",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_93e1799a3d449b2e0d0e781ba9108b54.png",
+    "alt": "",
+    "sourceFile": "executive-team.html",
+    "sizeBytes": 585960,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/team/team-24-upload_b7383cb5bd54557ff31b593b84fb046f.png",
+    "category": "team",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_b7383cb5bd54557ff31b593b84fb046f.png",
+    "alt": "",
+    "sourceFile": "executive-team.html",
+    "sizeBytes": 462043,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/support-1.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/support-1.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 60081,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/stock-exchange-app-1.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/stock-exchange-app-1.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 30582,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/on-time.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/on-time.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 42740,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/cloud-computing.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/cloud-computing.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 26502,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/megaphone.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/megaphone.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 30757,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/expenditure.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/expenditure.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 53240,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/presentation.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/presentation.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 35642,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/partner.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/partner.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 36271,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/low-price.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/low-price.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 37555,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/active.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/active.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 36281,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/insurance.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/insurance.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 27495,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/bag.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/bag.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 18121,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/chart-1024x536-1.jpg",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2024/01/chart-1024x536-1.jpg",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 68538,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_1953fe7ff13e09ee5d4aeb87a27156df.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_1953fe7ff13e09ee5d4aeb87a27156df.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 21287,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_57ad2814fe79fac74c8710c61b7c1a55.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_57ad2814fe79fac74c8710c61b7c1a55.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 35896,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_5fd8a7f6adcfd383fc0067f50252bfa0.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_5fd8a7f6adcfd383fc0067f50252bfa0.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 562800,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_7f9d4b0a0af1c794f1004d82720fbab0.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_7f9d4b0a0af1c794f1004d82720fbab0.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 102911,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_94196b930a3b47f9f5fa577908b8a389.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_94196b930a3b47f9f5fa577908b8a389.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 179433,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_69ab5151c630321c35015891ca620958.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_69ab5151c630321c35015891ca620958.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 140961,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_e992f9a5b7b8da597979a9544e14e1ab.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_e992f9a5b7b8da597979a9544e14e1ab.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 41856,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_18ffcf40774a970c56254d2925d4a104.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_18ffcf40774a970c56254d2925d4a104.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 63305,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_cef3d9c92aea4246a9f8dc3da3fbc34c.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_cef3d9c92aea4246a9f8dc3da3fbc34c.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 246175,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_ae6229060f2faa50ad9f61af4d2f9895.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_ae6229060f2faa50ad9f61af4d2f9895.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 66435,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_10f0f80ad1f6668e152f7b2d497013b2.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_10f0f80ad1f6668e152f7b2d497013b2.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 45180,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_f919c2ac3f539bd9c5815964a944cbb4.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_f919c2ac3f539bd9c5815964a944cbb4.png",
+    "alt": "",
+    "sourceFile": "join-us.html",
+    "sizeBytes": 133754,
+    "status": "VERIFIED_DOWNLOADED"
+  },
+  {
+    "filename": "assets/website/upload_c10e51b7536ad0df3e99532260667fe2.png",
+    "category": "website",
+    "originalUrl": "https://www.floridareagency.com/wp-content/uploads/2023/10/upload_c10e51b7536ad0df3e99532260667fe2.png",
+    "alt": "",
+    "sourceFile": "testimonials.html",
+    "sizeBytes": 9121,
+    "status": "VERIFIED_DOWNLOADED"
+  }
+]
